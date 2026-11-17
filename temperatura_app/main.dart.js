@@ -89717,7 +89717,7 @@ g=A.as(["limit","500"],h,h)
 if(i!=null){h=n.d
 g.n(0,"from",h.kA(i.a))
 g.n(0,"to",h.kA(i.b))}s=7
-return A.H(A.aEI(A.fQ("https://appzplay.online/temperatura/readings.php").BJ(g)),$async$n5)
+return A.H(A.aEI(A.fQ("https://temperatura.appzplay.online/temperatura/readings.php").BJ(g)),$async$n5)
 case 7:m=b
 if(m.b!==200){h=A.d9("HTTP "+m.b)
 throw A.i(h)}h=m
