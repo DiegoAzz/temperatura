@@ -1,0 +1,6 @@
+*.sql
+*.sql.gz
+*.zip
+.env
+*.env
+temperatura-db.env
